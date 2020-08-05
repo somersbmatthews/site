@@ -1,6 +1,6 @@
 application: gorilla-web
 version: v2
-runtime: go
+runtime: go112
 api_version: go1
 
 handlers:
